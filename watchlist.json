@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "小米充电宝 20000mAh", "target": 99 },
+    { "name": "罗技 M330 鼠标", "target": 79 }
+  ],
+  "settings": {
+    "delay": 3,
+    "days_keep_history": 90
+  }
+}
